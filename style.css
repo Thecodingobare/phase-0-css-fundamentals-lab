@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+a{
+  padding: 10px;
+}
+#featured-property p{
+  width: 800px;
+}
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
